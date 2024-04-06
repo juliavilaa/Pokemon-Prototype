@@ -19,7 +19,10 @@ PokeSearch es una aplicación web simple que te permite buscar información sobr
 
 1. Clona este repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador web.
-3. Ingresa el nombre de un Pokémon en el campo de búsqueda y haz clic en el botón "¡Go!" o utiliza comandos de voz como "movimientos" seguido del nombre del Pokémon para obtener información.
+3. Ingresa el nombre de un Pokémon en el campo de búsqueda y haz clic en el botón "¡Go!".
+4. Utiliza comandos de voz para buscar información sobre Pokémon:
+     - Pronuncia "movimientos" seguido del nombre del Pokémon para obtener información sobre sus movimientos.
+     - Pronuncia "busca" seguido del nombre del Pokémon para obtener información general sobre él.
 
 ## Notas
 
